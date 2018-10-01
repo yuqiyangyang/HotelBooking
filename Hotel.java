@@ -1,5 +1,4 @@
-//name: Yuqi Yang
-//student# 260365378
+
 
 import java.util.NoSuchElementException;
 import java.util.Arrays;

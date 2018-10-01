@@ -1,5 +1,4 @@
-//name: Yuqi Yang
-//student# 260365378
+
 import java.util.Arrays;
 
 public class Room{//class Room has 3 attributes

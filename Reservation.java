@@ -1,5 +1,4 @@
-//name: Yuqi Yang
-//student# 260365378
+
 
 public class Reservation{//create class Reservation
   private String name;//customer name
